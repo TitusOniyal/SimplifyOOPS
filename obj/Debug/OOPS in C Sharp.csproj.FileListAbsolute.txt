@@ -1,0 +1,6 @@
+F:\Kanik_BK\Others\OOPS in C Sharp\OOPS in C Sharp\bin\Debug\OOPS in C Sharp.exe
+F:\Kanik_BK\Others\OOPS in C Sharp\OOPS in C Sharp\bin\Debug\OOPS in C Sharp.pdb
+F:\Kanik_BK\Others\OOPS in C Sharp\OOPS in C Sharp\obj\Debug\OOPS in C Sharp.csprojAssemblyReference.cache
+F:\Kanik_BK\Others\OOPS in C Sharp\OOPS in C Sharp\obj\Debug\OOPS in C Sharp.csproj.CoreCompileInputs.cache
+F:\Kanik_BK\Others\OOPS in C Sharp\OOPS in C Sharp\obj\Debug\OOPS in C Sharp.exe
+F:\Kanik_BK\Others\OOPS in C Sharp\OOPS in C Sharp\obj\Debug\OOPS in C Sharp.pdb
